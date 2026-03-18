@@ -9,4 +9,4 @@ A hardware and software system designed to assist in the recovery of visual fiel
 
 Status: Conceptual design and software architecture established prior to the commencement of employment. Current development involves prototype iteration and eye-tracking algorithm refinement.
 
-Note:The inventor reserves the right to multi-license or transition to proprietary licensing for future iterations of this architecture.
+Note: The inventor reserves the right to multi-license or transition to proprietary licensing for future iterations of this architecture.
